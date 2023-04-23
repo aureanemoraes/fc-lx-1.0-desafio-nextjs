@@ -22,6 +22,8 @@ Crie o arquivo api.http para declarar as 2 chamadas a serem realizadas.
 
 ## Rodando a aplicação
 
+`npm i`
+
 Localmente:
 
 ```bash
