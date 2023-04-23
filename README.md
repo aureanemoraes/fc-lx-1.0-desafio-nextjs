@@ -22,7 +22,21 @@ Crie o arquivo api.http para declarar as 2 chamadas a serem realizadas.
 
 ## Rodando a aplicação
 
-`npm i`
+Clone o projeto:
+
+`git clone git@github.com:aureanemoraes/fc-lx-1.0-desafio-nextjs.git`
+
+Entre no diretório:
+
+`cd fc-lx-1.0-desafio-nextjs`
+
+Configure o .env:
+
+`cp .env.example .env`
+
+Instale as libs:
+
+`npm i` 
 
 Localmente:
 
